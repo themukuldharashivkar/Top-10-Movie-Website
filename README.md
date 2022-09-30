@@ -1,4 +1,5 @@
 ﻿# Top-10-Movie-Website
+## Used Flask, FlaskWTF and Flask-Bootstrap
 ### Homepage
 ![Screenshot 2022-09-30 114853](https://user-images.githubusercontent.com/98680454/193203805-8cb907ed-6149-4435-a06f-9ca3bcce64f1.jpg)
 ### Edit Page
