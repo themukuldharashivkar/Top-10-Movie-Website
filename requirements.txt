@@ -1,4 +1,5 @@
 flask
-flask_bootstrap
-flask_wtf
+Flask-Bootstrap
+Flask-WTF
 gunicorn
+Flask-SQLAlchemy
