@@ -2,5 +2,5 @@ flask
 Flask-Bootstrap
 Flask-WTF
 gunicorn
-Flask-SQLAlchemy
+flask-sqlalchemy==2.5.1
 requests
